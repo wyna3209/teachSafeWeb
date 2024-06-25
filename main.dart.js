@@ -86963,7 +86963,7 @@ k=A.cS("https://port-0-teach-safe-ai-6lu2llx75scpr.sel5.cloudtype.app/api/prompt
 j=t.N
 i=A.ai(["Content-Type","application/json; charset=UTF-8"],j,j)
 s=7
-return A.V(A.Ww(k,B.aT.Hn(A.ai(["role",g,"task",f,"conditions",e,"restrictions",d,"validity",c,"adminPassword",b,"chatbotInfo",a],j,t.K),null),i),$async$wz)
+return A.V(A.Ww(k,B.aT.Hn(A.ai(["role",g,"task",f,"conditions",e,"restrictions",d,"validity",c,"adminPassword",b,"chatbotDetails",a],j,t.K),null),i),$async$wz)
 case 7:m=a2
 if(m.b===201){k=m
 l=B.aT.tT(A.jA(A.jw(k.e).c.a.h(0,"charset")).cP(k.w),null)
